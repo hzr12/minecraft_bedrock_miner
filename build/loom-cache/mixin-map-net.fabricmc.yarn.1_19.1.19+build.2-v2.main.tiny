@@ -1,0 +1,4 @@
+v1	named	intermediary
+FIELD	yan/lx/bedrockminer/mixins/MinecraftClientMixin	Lnet/minecraft/client/world/ClientWorld;	world	field_1687
+FIELD	yan/lx/bedrockminer/mixins/MinecraftClientMixin	Lnet/minecraft/client/network/ClientPlayerEntity;	player	field_1724
+FIELD	yan/lx/bedrockminer/mixins/MinecraftClientMixin	Lnet/minecraft/util/hit/HitResult;	crosshairTarget	field_1765
